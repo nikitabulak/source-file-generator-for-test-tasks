@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Source File Generator
 ## Стэк:
 Java 11.
