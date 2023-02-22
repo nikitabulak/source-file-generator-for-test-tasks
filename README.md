@@ -26,7 +26,3 @@ Java 11.
 ```
 java -jar generator.jar <аргументы>
 ```
-=======
-# source-file-generator-for-test-tasks
-Generates a file with strings/integers for sorting test tasks.
->>>>>>> ef59f88769ba0749e6053f1721d688601ab3b3ce
